@@ -5,16 +5,17 @@
 
 
 .introduction{
- */  background-color: navy; */
- text-align: center;
+background-color: rgb(14, 14, 200);
+text-align: center;
 width: 600px;
 }
 
 
 .top{
-background-color: blue;
+background-color: rgb(14, 14, 200);
 height: 20vh;
 justify-content: center;
 align-items: center;
 display: flex;
 }
+
